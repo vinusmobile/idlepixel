@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5F627996-0B69-4A17-974A-CCE1E644CBCC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Idlepixel-Common</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>02734AF9C0B17392399EF740826FCB991F30150A</key>
+		<string>https://bitbucket.org/GetRealStats/get-real-golf-stats-ios.git</string>
+		<key>E67739C9F6880213CE2377074B7CBDC6660F3AD7</key>
+		<string>https://bitbucket.org/GetRealStats/idlepixel-common.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Idlepixel-Common.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>02734AF9C0B17392399EF740826FCB991F30150A</key>
+		<string>../../../..</string>
+		<key>E67739C9F6880213CE2377074B7CBDC6660F3AD7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/GetRealStats/idlepixel-common.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E67739C9F6880213CE2377074B7CBDC6660F3AD7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>02734AF9C0B17392399EF740826FCB991F30150A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E67739C9F6880213CE2377074B7CBDC6660F3AD7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Idlepixel-Common</string>
+		</dict>
+	</array>
+</dict>
+</plist>
